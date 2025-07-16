@@ -55,3 +55,6 @@ picoctf{...}
 
 Understanding the length and format of hashes helps in quickly identifying the algorithm used, which is crucial for efficient decoding or cracking.
 
+```
+Writeup by : Crypto_Kepper
+```
